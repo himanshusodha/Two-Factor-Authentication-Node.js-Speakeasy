@@ -1,0 +1,21 @@
+{
+  "name": "TwoFactorAuthentication Node.js & Speakeasy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "Instagram | himanshusodha",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2",
+    "node-json-db": "^1.4.1",
+    "speakeasy": "^2.0.0",
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
